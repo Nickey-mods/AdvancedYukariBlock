@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Yukari Blocks",
+  "name": "Yukari Blocks",
+  "description": "Yukari Block mod.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["nickey"],
+  "credits": "nickey",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
